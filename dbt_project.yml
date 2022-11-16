@@ -33,3 +33,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 models:
   dbrx_mitchq_dbt_transformations:
+
+vars:
+  netsuite_source:
+    netsuite_schema: NETSUITE_SUITEANALYTICS
