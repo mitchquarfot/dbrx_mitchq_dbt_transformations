@@ -36,4 +36,4 @@ models:
 
 vars:
   netsuite_source:
-    netsuite_schema: NETSUITE_SUITEANALYTICS
+    netsuite_schema: netsuite_suiteanalytics
