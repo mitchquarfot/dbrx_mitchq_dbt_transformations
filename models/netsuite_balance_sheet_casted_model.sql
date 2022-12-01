@@ -15,4 +15,4 @@ cast(account_id as int) as account_id,
 account_number,
 cast(converted_amount as int) as converted_amount,
 balance_sheet_sort_helper
-from netsuite__balance_sheet
+from cast_table
